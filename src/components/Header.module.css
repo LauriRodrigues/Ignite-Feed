@@ -8,3 +8,9 @@
 .header img {
   height: 2rem;
 }
+
+.header h1 {
+  font-size: 1.56rem;
+  color: var(--gray-100);
+  margin-left: 1rem;
+}
