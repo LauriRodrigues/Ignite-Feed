@@ -17,7 +17,7 @@
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
-<p> Projeto realizado durante o programa <strong>Ignite</strong> da <a href="https://www.rocketseat.com.br/"> <strong>Rocketseat</strong> </a>. É o primeiro projeto do programa na trilha de ReactJS, localizado no nível 1, onde construímos uma página no estilo feed, onde podemos fazer comentários em posts para conhecer conceitos de ReactJS como componentes, propriedades, estados, hooks, comunicação entre componentes, imutabilidade, closures, etc. Também foi aplicado TypeScript no projeto para uma melhor performance. <p>
+<p> Projeto realizado durante o programa <strong>Ignite</strong> da <a href="https://www.rocketseat.com.br/"> <strong>Rocketseat</strong> </a>. É o primeiro projeto do programa na trilha de ReactJS, localizado no nível 1, onde construímos uma página responsiva no estilo feed, onde podemos fazer comentários em posts para conhecer conceitos de ReactJS como componentes, propriedades, estados, hooks, comunicação entre componentes, imutabilidade, closures, etc. Também foi aplicado TypeScript no projeto para uma melhor performance. <p>
   
 <h2 align=left> 🛠 Tecnologias utilizadas </h3>
 
