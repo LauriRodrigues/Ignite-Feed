@@ -3,7 +3,7 @@
 </div>
 	
 <h4 align="center"> 
-	🚀 Projeto 01 | Nível 01 - Ignite (Trilha ReactJS)
+	🚀 Projeto 01 | Nível -  01  |   Fundamentos de ReactJS - Ignite (Trilha ReactJS)
 </h4>
 
 <div align="center">
